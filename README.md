@@ -2,7 +2,7 @@
 
 Bienvenue sur mon portfolio ! Ce projet présente mes compétences en développement web acquises durant ma formation en Métiers du Multimédia et de l'Internet (MMI) à l'IUT de Limoges.
 
-## 🛠️ Technologies Utilisées
+## 🛠️ Technologies Utilisées au cours de la Formation
 
 - **HTML/CSS** : Création de pages web structurées et stylisées.
 - **JavaScript** : Ajout d'interactivité et de dynamisme aux sites web.
