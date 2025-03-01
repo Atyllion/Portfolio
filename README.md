@@ -14,15 +14,6 @@ Bienvenue sur mon portfolio ! Ce projet présente mes compétences en développe
 - **SEO** : Optimisation pour les moteurs de recherche.
 - **Gestion de Projet** : Utilisation de méthodologies agiles pour la gestion de projets web.
 
-## Portfolio créer a l'aide de : 
-
-- HTML 5
-- CCS 3
-- JavaScript
-- Tailwind
-- Git
-- Vite
-
 ## 📚 Compétences Développées
 
 - **Développement Frontend** : Maîtrise des technologies web pour créer des interfaces utilisateur attrayantes et fonctionnelles.
